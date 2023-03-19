@@ -1,5 +1,7 @@
 # Game of Life in Processing
 
+![](preview.gif)
+
 ## Description
 My implementation of Game of Life in Processing.
 
