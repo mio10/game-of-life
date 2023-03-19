@@ -21,4 +21,4 @@ The game starts in draw mode in which you can draw cells using mouse.
 
 Press `D` to start the simulation. Press `D` again to switch back to the draw mode.
 
-Press 'C' any time to clean the screen.
+Press `C` at any time to clean the screen.
