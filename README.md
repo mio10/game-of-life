@@ -15,3 +15,10 @@ My implementation of Game of Life in Processing.
 $ processing-java --sketch=path/to/gol --run
 ```
 **Note:** `path/to/gol` is a path to the directory containing `gol.pde`
+
+## How to play
+The game starts in draw mode in which you can draw cells using mouse.
+
+Press `D` to start the simulation. Press `D` again to switch back to the draw mode.
+
+Press 'C' any time to clean the screen.
